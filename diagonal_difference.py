@@ -12,3 +12,9 @@ def diagonalDifference(arr):
         j -= 1
     abs_diff = abs(diag_one - diag_two)
     return abs_diff
+
+matrix = [[1, 4, 7],
+          [2, 9, 9],
+          [4, 6, 8]]
+
+print(diagonalDifference(matrix))
