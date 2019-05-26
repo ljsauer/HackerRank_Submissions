@@ -1,3 +1,3 @@
-# little_data
+# HackerRank_Submissions
 
-Practice for all things data science (lite).
+Practice from HackerRank's problem solving exercises.
