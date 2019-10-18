@@ -1,3 +1,3 @@
 # HackerRank_Submissions
 
-Practice from HackerRank's problem solving exercises.
+Personal submissions for HackerRank's python practice problems.
